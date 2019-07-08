@@ -60,7 +60,7 @@
 
 反正，写书的人群中，牛人比例相对较高，这是事实 —— 古今中外都一样。
 
-进而，更为重要的是，一旦当你把整个互联网当作一本大 “书”，把 Google 当作入口，实际发生的效果是：
+进而，更为重要的是，一旦你把整个互联网当作一本大 “书”，把 Google 当作入口，实际发生的效果是：
 
 > 你把 “老师” 这个角色**去中心化**了……
 
@@ -76,7 +76,7 @@
 
 于是，我们终于可以好好总结一下了：
 
-![](../images/seflteaching-model.png?raw=true)
+![](https://raw.githubusercontent.com/selfteaching/the-craft-of-selfteaching/master/images/seflteaching-model.png?raw=true)
 
 > * 你一定要想办法启动自学，否则你没有未来；
 > * 你把自学当作一门手艺，长期反复磨练它；
